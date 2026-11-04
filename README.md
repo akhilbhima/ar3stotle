@@ -29,7 +29,7 @@ Ask for "another structure", a different emotion, or name one yourself ("write i
 
 ## Install
 
-**Claude (claude.ai or the desktop app):** download [`ar3stotle.skill`](dist/ar3stotle.skill), then open Settings → Capabilities → Skills and upload it.
+**Claude (claude.ai or the desktop app):** download [`ar3stotle.skill`](https://github.com/akhilbhima/ar3stotle/releases/latest/download/ar3stotle.skill), then open Settings → Capabilities → Skills and upload it.
 
 **Claude Code:**
 
